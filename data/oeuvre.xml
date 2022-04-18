@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<oeuvres hlp="Analyse d'une œuvre littéraire">
+    <oeuvre ref="000">
+        <info id="Titre" ht="28" hlp="Titre de l'œuvre"></info>
+        <info id="Auteur" ht="28" hlp="Nom de l'auteur"></info>
+        <info id="Date" ht="28" hlp="Date de publication"></info>
+        <info id="Genre" ht="28" hlp="Poésie ? Pièce de théâtre ? Roman ? Conte ? Essai ?"></info>
+        <info id="Mouvement" ht="28" hlp="Classement dans une époque, un mouvement"></info>
+        <info id="Résumé" ht="81" hlp="Compte-rendu du contenu"></info>
+        <info id="Extraits" ht="120" hlp="Passages choisis"></info>
+        <info id="Illustration" ht="28" hlp="http://"></info>
+        <info id="Vidéo" ht="28" hlp="http://"></info>
+    </oeuvre>
+</oeuvres>

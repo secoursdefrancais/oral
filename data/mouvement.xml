@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<mouvements hlp="Informations sur un mouvement littéraire">
+    <mouvement ref="000">
+        <info id="Nom" ht="28" hlp="Désignation du mouvement littéraire"></info>
+        <info id="Définition" ht="81" hlp="Description du mouvement"></info>
+        <info id="Manifeste" ht="81" hlp="Définition littéraire du mouvement"></info>
+        <info id="Début" ht="28" hlp="Date de début"></info>
+        <info id="Fin" ht="28" hlp="Date de fin"></info>
+        <info id="Précurseurs" ht="81" hlp="Écrivains précurseurs du mouvement"></info>
+        <info id="Écrivains" ht="81" hlp="Chef de file, disciples"></info>
+        <info id="Postérité" ht="81" hlp="Écrivains influencés par ce mouvement"></info>
+        <info id="Illustration" ht="28" hlp="http://"></info>
+        <info id="Vidéo" ht="28" hlp="http://"></info>
+    </mouvement>
+</mouvements>

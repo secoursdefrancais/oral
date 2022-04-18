@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<auteurs hlp="Informations sur un auteur (sa vie, son œuvre)">
+    <auteur ref="000">
+        <info id="Nom" ht="28" hlp="Désignation habituelle"></info>
+        <info id="Nom complet" ht="28" hlp="Nom réel et complet"></info>
+        <info id="Naissance" ht="28" hlp="Date, lieu de naissance"></info>
+        <info id="Décès" ht="28" hlp="Date, lieu de décès"></info>
+        <info id="Genre" ht="28" hlp="Genre d’œuvres habituel"></info>
+        <info id="Mouvement" ht="28" hlp="Classement dans une époque, un mouvement"></info>
+        <info id="Œuvres" ht="81" hlp="Quelles œuvres célèbres ?"></info>
+        <info id="Biographie" ht="120" hlp="Dates et faits intéressants"></info>
+        <info id="Illustration" ht="28" hlp="http://"></info>
+        <info id="Vidéo" ht="28" hlp="http://"></info>
+    </auteur>
+</auteurs>

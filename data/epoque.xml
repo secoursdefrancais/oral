@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<epoques hlp="Informations sur une période littéraire">
+    <epoque ref="000">
+        <info id="Nom" ht="28" hlp="Désignation habituelle de l'époque"></info>
+        <info id="Début" ht="28" hlp="Date de début"></info>
+        <info id="Fin" ht="28" hlp="Date de fin"></info>
+        <info id="Description" ht="81" hlp="Description de l'époque (histoire, sociologie, littérature)"></info>
+        <info id="Écrivains" ht="81" hlp="Écrivains emblématique de l'époque"></info>
+        <info id="Illustration" ht="28" hlp="http://"></info>
+        <info id="Vidéo" ht="28" hlp="http://"></info>
+    </epoque>
+</epoques>

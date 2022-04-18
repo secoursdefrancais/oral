@@ -1,0 +1,9 @@
+﻿* {
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;      
+}
+div, input, button, textarea {
+    position:absolute;
+    font-size: small;
+}

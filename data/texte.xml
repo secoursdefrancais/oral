@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<textes hlp="Explication d'un extrait d'œuvre">
+    <texte ref="000">
+        <info id="Intitulé" ht="28" hlp="Titre de l'extrait étudié"></info>
+        <info id="Oeuvre" ht="28" hlp="D'où provient l'extrait ?"></info>
+        <info id="Production" ht="28" hlp="Genre- Auteur - Titre - Époque - Sujet"></info>
+        <info id="Énonciation" ht="28" hlp="Qui parle ? à qui ? où ? quand ? de quoi ?"></info>
+        <info id="Focalisation" ht="28" hlp="interne ? externe ? zéro ?"></info>
+        <info id="Forme" ht="28" hlp="Versification ? Structure ? Schéma narratif ?"></info>
+        <info id="Vocabulaire" ht="81" hlp="Lexique - Mots difficiles"></info>
+        <info id="Champs lexicaux" ht="81" hlp="Champs lexicaux - thèmes abordés"></info>
+        <info id="Figures de style" ht="81" hlp="Figures de style choisies"></info>
+        <info id="Explication" ht="81" hlp="Le récit - les idées"></info>
+        <info id="Tonalité" ht="40" hlp="Intention de l'auteur - Objectif ?"></info>
+        <info id="Impressions" ht="40" hlp="Effet sur le lecteur ? Réaction"></info>
+        <info id="Illustration" ht="28" hlp="http://"></info>
+        <info id="Vidéo" ht="28" hlp="http://"></info>
+    </texte>
+</textes>
